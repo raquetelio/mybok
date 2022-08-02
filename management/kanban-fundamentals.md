@@ -76,7 +76,6 @@ Used to group up tasks together according to some criteria (priority, deparment)
 3. Step 3: Adapt, monitor, and improve.
  
 
-
 ### Kanban Setup Checklist
 1. Determine Physical or digital Kanban board.
 1. Create Kanban board.
