@@ -77,7 +77,6 @@ Used to group up tasks together according to some criteria (priority, deparment)
  
 
 
-
 ### Kanban Setup Checklist
 1. Determine Physical or digital Kanban board.
 1. Create Kanban board.
@@ -87,5 +86,3 @@ Used to group up tasks together according to some criteria (priority, deparment)
 1. Define and assign WIP limits to Kanban columns.
 1. Identify and discuss impediments or blockers that will prohibit the team's momentum forward.
 1. Determine a cadence (repetition) of optional team meetings (retrospective, prioritization session, backlog grooming).
-
-Source: www.TheBAGuide.com, Agile Fundamentals: Including Scrum and Kanban - 2022 (udemy.com)
