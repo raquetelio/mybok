@@ -9,3 +9,10 @@ No matter your expertise or experience, **feedback, new ideas and improvements a
 
 Cheers,
 Raquel.
+
+## Table of Content
+
+- [Management](management)
+  - [Kanban Fundamentals](management/kanban-fundamentals.md)
+- [Git](git)
+  - [GitHub basics](git/github-basics.md)
