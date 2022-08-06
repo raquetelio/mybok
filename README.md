@@ -18,5 +18,5 @@ Raquel.
     - [GitHub basics](git/github-basics.md)
 - [Markdown](markdown)
     - [Complete list of github markdown emoji markup](markdown/github-markdown-emoji-markup.md)
-- [APIs](/apis/)
-    - [API references](/apis/apis-references.md)
+- [API](/api/)
+    - [API Design](/api/api-design.md) 
