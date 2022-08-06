@@ -13,8 +13,10 @@ Raquel.
 ## Table of Content
 
 - [Management](management)
-  - [Kanban Fundamentals](management/kanban-fundamentals.md)
+    - [Kanban Fundamentals](management/kanban-fundamentals.md)
 - [Git](git)
-  - [GitHub basics](git/github-basics.md)
+    - [GitHub basics](git/github-basics.md)
 - [Markdown](markdown)
-  - [Complete list of github markdown emoji markup](markdown/github-markdown-emoji-markup.md)
+    - [Complete list of github markdown emoji markup](markdown/github-markdown-emoji-markup.md)
+- [APIs](/apis/)
+    - [API references](/apis/apis-references.md)
