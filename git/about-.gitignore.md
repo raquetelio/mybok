@@ -1,4 +1,29 @@
-# .gitignore
+# About .gitignore
+
+## How do I make Git forget about a file that was tracked, but is now in .gitignore?
+
+_Source: https://stackoverflow.com/questions/1274057/how-can-i-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitign_
+
+Step 1: Commit all your changes. Before proceeding, make sure all your changes are committed, including your . gitignore file.
+Step 2: Remove everything from the repository. To clear your repository, use: 
+```
+git rm -r --cached .
+```
+- rm is the remove command
+- -r will allow recursive removal
+- –cached will only remove files from the index. Your files will still be there.
+
+The rm command can be unforgiving. If you wish to try what it does beforehand, add the -n or --dry-run flag to test things out.
+
+Step 3: Readd everything. 
+```
+git add .
+```
+Step 4: Commit. 
+```
+git commit -m ".gitignore fix"
+```
+
 
 ## git status is showing "Changes not staged for commit" for files listed in .gitignore?
 
@@ -12,7 +37,7 @@ For the XML file, however, it may be "generated content" that you don't want ver
 What you can do at this point is remove it from git's index, but not from the work-tree:
 
 ```
-git rm --cached mllib/pom.xml
+git rm --cached <file_or_folder>
 ```
 
 
