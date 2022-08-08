@@ -48,7 +48,7 @@ It's a pull work methodology: Any team member can pull the work with highest pri
  
 
 ## :pushpin: Key Metrics
-1. Lead time
+1. Lead time 
 1. Cycle time
  
 

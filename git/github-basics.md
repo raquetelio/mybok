@@ -53,3 +53,8 @@ Check current branch:
 ```
 git branch --show-current
 ```
+
+Check repository history
+```
+git log --graph --all --oneline
+```
