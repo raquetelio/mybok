@@ -7,5 +7,6 @@ https://javiervelezreyes.com/modelos-de-api-para-el-diseno-de-servicios/
 ## Rest API. Best Practices to design at the 2nd Maturity Level
 https://github.com/geeksusma/rest-2nd-level
 
-
+## RFC 2707: A standardized error format for HTTP responses
+https://www.mscharhag.com/api-design/rest-error-format
 
