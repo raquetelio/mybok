@@ -3,7 +3,9 @@
 :wave::smiley: Welcome to my BoK ([Body of Knowledge](https://en.wikipedia.org/wiki/Body_of_knowledge)), a personal repository I recently created for better organization of the concepts and ideas I usually gather around a technical topic or learned. 
 
 
-This is just my notebook for learning. I decided to make it public to share the knowledge with more people interested on **technical topics**. Hope you find those links interesting. 
+This is just my notebook for learning and it's in an early status. Big things always have a first step.
+
+I decided to make it public to share the knowledge with more people interested on **technical topics**. Hope you find this collection interesting and helpful if you are new in the tech community. 
 
 No matter your expertise or experience, **feedback, new ideas and improvements are always welcome**.
 
@@ -13,6 +15,7 @@ Raquel.
 
 ## Table of Content
 
+- [You should follow](/you-should-follow.md)
 - [Management](management)
     - [Kanban Fundamentals](management/kanban-fundamentals.md)
 - [Strategy](strategy)
