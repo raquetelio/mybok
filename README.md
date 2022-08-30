@@ -1,6 +1,6 @@
 # MyBoK
 
-:wave::smiley: Welcome to my BoK ([Body of Knowledge](https://en.wikipedia.org/wiki/Body_of_knowledge)), a personal repository I recently created for better organization of the concepts and ideas I usually gather around a technical topic or just learned. 
+:wave::smiley: Welcome to my BoK ([Body of Knowledge](https://en.wikipedia.org/wiki/Body_of_knowledge)), a personal repository I recently created for better organization of the concepts and ideas I usually gather around a technical topic or learned. 
 
 
 This is just my notebook for learning. I decided to make it public to share the knowledge with more people interested on **technical topics**. Hope you find those links interesting. 
