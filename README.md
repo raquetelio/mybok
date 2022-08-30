@@ -1,8 +1,9 @@
 # MyBoK
 
-:wave::smiley: Welcome to my BoK ([Body of Knowledge](https://en.wikipedia.org/wiki/Body_of_knowledge)), a personal repository I recently created for better organization of the concepts and ideas I usually learn in my work or spare time. 
+:wave::smiley: Welcome to my BoK ([Body of Knowledge](https://en.wikipedia.org/wiki/Body_of_knowledge)), a personal repository I recently created for better organization of the concepts and ideas I usually gather around a technical topic or just learned. 
 
-I decided to make it public to share the knowledge with more people interested on **technical topics**. Hope you find something interesting here or some nice discussion can be generated. 
+
+This is just my notebook for learning. I decided to make it public to share the knowledge with more people interested on **technical topics**. Hope you find those links interesting. 
 
 No matter your expertise or experience, **feedback, new ideas and improvements are always welcome**.
 
@@ -14,9 +15,27 @@ Raquel.
 
 - [Management](management)
     - [Kanban Fundamentals](management/kanban-fundamentals.md)
+- [Strategy](strategy)
+    - [Wardley mapping](strategy/wardley-mapping.md)
+- [Product](product)
+    - [Product articles](product/product-articles.md)
 - [Git](git)
     - [GitHub basics](git/github-basics.md)
+    - [About .gitgignore](git/about-.gitignore.md)
 - [Markdown](markdown)
     - [Complete list of github markdown emoji markup](markdown/github-markdown-emoji-markup.md)
-- [API](/api/)
+    - [Markdown format](markdown/markdown-format.md)
+- [Web](web)
+    - [Cross-Origin Resource Sharing (CORS)](web/cors.md)
+- [API](api)
     - [API Design](/api/api-design.md) 
+- [Linux](linux)
+    - [Linux basic commands](/linux/linux-basic-commands.md)
+- [Node](node)
+    - [Start a node.js project](/node/node-project-start.md)
+- [Container](container)
+    - [Docker](container/docker/)
+        - [Docker basic notes](/container/docker/docker-basic-notes.md)
+- [GraphQL](graphql)
+    - [GraphQL basics](/graphql/graphql-basics.md)
+
