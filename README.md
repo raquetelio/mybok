@@ -5,7 +5,7 @@
 
 This is just my notebook for learning and it's in an early status. Big things always have a first step.
 
-I decided to make it public to share the knowledge with more people interested on **technical topics**. Hope you find this collection interesting and helpful if you are new in the tech community. 
+I decided to make it public to share the knowledge with more people interested on **technical topics**. Hope you find this collection interesting and helpful, specially if you are new in the tech community. Sometimes is hard to select a few ideas from the internet.
 
 No matter your expertise or experience, **feedback, new ideas and improvements are always welcome**.
 
