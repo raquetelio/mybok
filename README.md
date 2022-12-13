@@ -44,4 +44,6 @@ Raquel.
         - [Docker basic notes](/container/docker/docker-basic-notes.md)
 - [GraphQL](graphql)
     - [GraphQL basics](/graphql/graphql-basics.md)
+- [Utils](utils)    
+    - [Video](/utils/video.md)
 
