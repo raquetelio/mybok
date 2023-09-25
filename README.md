@@ -42,6 +42,8 @@ Raquel.
 - [Container](container)
     - [Docker](container/docker/)
         - [Docker basic notes](/container/docker/docker-basic-notes.md)
+- [Cloud](cloud)
+    - [AWS Certifications](/cloud/aws-certifications.md)
 - [GraphQL](graphql)
     - [GraphQL basics](/graphql/graphql-basics.md)
 - [Utils](utils)    
