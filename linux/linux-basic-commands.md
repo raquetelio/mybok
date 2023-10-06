@@ -13,6 +13,13 @@ Install .tar.gz
 tar xzf file.tar.gz
 ```
 
+Install tar.xz 
+
+```
+tar -xf file.tar.xz 
+```
+
+
 ## Restart print service in Unbutu
 ```
 sudo service cups restart
