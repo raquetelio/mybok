@@ -27,3 +27,10 @@ const server = http.createServer((req, res) => {
 server.listen(port, hostname, () => {
   console.log(`Server running at http://${hostname}:${port}/`);
 });
+
+## git ignore node_modules
+
+Add below line to your .gitignore
+
+*/node_modules/*
+This will ignore all node_modules in your current directory as well as subdirectory.
