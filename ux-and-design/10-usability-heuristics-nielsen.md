@@ -17,4 +17,4 @@ _Source: https://www.nngroup.com/articles/ten-usability-heuristics/_
 Free 10 Heuristics Poster: [See all](./docs/UsabilityHeuristics_AllPosters/)
 
 
-![NNg Jakob's Usability Heuristic Summary](/ux/docs/UsabilityHeuristics_AllPosters/NNg%20Jakob's%20Usability%20Heuristic%201.svg "NNg Jakob's Usability Heuristic Summary")
+![NNg Jakob's Usability Heuristic Summary](./docs/UsabilityHeuristics_AllPosters/NNg%20Jakob's%20Usability%20Heuristic%201.svg "NNg Jakob's Usability Heuristic Summary")

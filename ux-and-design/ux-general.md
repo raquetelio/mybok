@@ -2,9 +2,11 @@
 # UX
 Usability depends on people and context.
 
+_"You don't come up with an iPod just by making a walkman really easy to use"_ - Nate Bolt
+
+
 ## 10 Usability Heuristics for User Interface Design (Jakob Nielsen)
 See [10 Usability Heuristics for User Interface Design (Jakob Nielsen)](10-usability-heuristics-nielsen.md)
-
 
 
 
