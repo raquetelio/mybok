@@ -1,7 +1,6 @@
 # Design
 
 
-
 ## The 6 Levels of UX Maturity]
 See [The 6 Levels of UX Maturity](levels-ux-maturity.md)
 
@@ -47,3 +46,15 @@ The three core activities of Design Thinking
 
 ![IDEO Design Thinking Process](./docs/IDEO-Design-thinking-process.jpg)
 
+
+## Design Principles and laws
+
+- [Design Principles](design-principles.md)
+- [Fitts law](fitts-law.md)
+- [Hick law](hick-law.md)
+- [Tesler's law](teslers-law.md).
+    - [Progressive Disclosure](progressive-disclosure-technique.md)
+
+
+More References: 
+https://lawsofux.com/ 
