@@ -15,3 +15,18 @@ https://www.awwwards.com/
 https://neuf.delpireandco.com/en/
 
 https://vicio.com/ 
+
+https://dottopia.com/
+
+
+https://www.behance.net/
+- https://www.behance.net/gallery/37703399/Dottopia-web-design-UXUI/modules/234650051
+
+
+https://nuro.co/
+
+stripe.com 
+
+
+## Antipattern
+https://www.lingscars.com/
