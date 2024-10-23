@@ -44,7 +44,9 @@ https://www.youtube.com/watch?v=aK-bxFyDxLA - Form follows emotion
 :es: 
 
 https://enlainterfaz.com/
+
 https://enlainterfaz.com/introduccion-a-la-experiencia-de-usuario/
+
 https://enlainterfaz.com/tag/principios/ 
 
 
