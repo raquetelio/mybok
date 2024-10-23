@@ -16,10 +16,10 @@ Figma, Penpot.app
 
 ## References
 
-```
-https://www.nngroup.com/
-https://www.nngroup.com/topic/ux-design-process/
-```
+
+[https://www.nngroup.com/](https://www.nngroup.com/)
+[https://www.nngroup.com/topic/ux-design-process/](https://www.nngroup.com/topic/ux-design-process/)
+
 
 
 ![The Elements of User Experience](https://www.insight.com/en_US/content-and-resources/blog/focusing-on-the-foundations-of-user-experience/jcr:content/top-container-width/column_layout/-column-1/image.img.jpg/1571178345699.jpg)
