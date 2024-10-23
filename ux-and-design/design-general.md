@@ -58,7 +58,8 @@ Summary: Human-Centered Design (HCD) is not about following processes. It’s ab
 
 Transcription:
 
-"0:08
+```
+0:08
 Because... what are the principles?
 0:09
 Well the first one is... uh, be "human-centered."
@@ -139,4 +140,5 @@ We don't have to focus on the details of the tools.
 2:27
 Those have to be understandable and usable.
 2:29
-**Remember, the important thing is the real goal of the people who use our products.**"
+**Remember, the important thing is the real goal of the people who use our products.**
+```
