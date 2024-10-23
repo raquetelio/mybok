@@ -1,9 +1,6 @@
 # Design
 
 
-## The 6 Levels of UX Maturity]
-See [The 6 Levels of UX Maturity](levels-ux-maturity.md)
-
 ## User-centered design
 
 See [User-centered design (UCD) or user-driven development (UDD)](human-centered-design.md)

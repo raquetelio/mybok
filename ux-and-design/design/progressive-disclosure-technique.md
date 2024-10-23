@@ -7,4 +7,4 @@ Progressive disclosure is an interaction design technique that displays only imp
 The result is a more streamlined interface that helps to keep the user’s attention focused by reducing clutter, confusion, and cognitive load. Anytime we use a dropdown, accordion, or toggle that reveals content that is hidden by default, we are utilizing progressive disclosure. This strategy is incredibly useful for simplifying designs because it enables us to defer less important actions, advanced features, or additional content to a secondary screen (like a dropdown, accordion, or content toggle).
 
 
-Related to [Tesler's law](teslers-law.md)
+Related to [Tesler's law](teslers-law.md).

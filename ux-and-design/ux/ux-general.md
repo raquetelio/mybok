@@ -15,11 +15,8 @@ See [The 6 Levels of UX Maturity](levels-ux-maturity.md)
 
 ## Tools
 Figma, Penpot.app, FigJam
+https://www.tldraw.com/ 
 
-
-## The Elements of User Experience
-
-![The Elements of User Experience](https://www.insight.com/en_US/content-and-resources/blog/focusing-on-the-foundations-of-user-experience/jcr:content/top-container-width/column_layout/-column-1/image.img.jpg/1571178345699.jpg)
 
 
 ## References
@@ -30,7 +27,7 @@ https://www.nngroup.com/
 https://www.nngroup.com/topic/ux-design-process/
 
 
-
+https://masonry.desandro.com/
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Masonry_layout
 
 

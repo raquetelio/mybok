@@ -1,4 +1,4 @@
-# Interface design tips
+# Interface design
 
 :es:
 
@@ -101,3 +101,6 @@ Imágenes:
 Responsive.
 Buena calidad. 
 Subidas por el usuario -> dar un tamaño al layout independientemente del tamaño de la imagen subida por el usuario. 
+
+## Patrones de diseño
+[Interface design patterns](interface-design-patterns.md)

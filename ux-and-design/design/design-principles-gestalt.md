@@ -1,6 +1,4 @@
-# Design principles
-
-## The Gestalt Principles
+# Design principles: The Gestalt Principles
 
 _Source: https://www.interaction-design.org/literature/topics/gestalt-principles#:~:text=There%20are%20six%20commonly%20recognized,(also%20known%20as%20pr%C3%A4gnanz)._
 
@@ -12,22 +10,22 @@ There are six commonly recognized Gestalt principles of perception: similarity, 
 Author/Copyright holder: Impronta. Copyright terms and licence: CC BY-SA 3.0
 
 
-### Similarity (also known as Invariance)
+## Similarity (also known as Invariance)
 The human eye tends to build a relationship between similar elements within a design. Similarity can be achieved using basic elements such as shapes, colors, and size.
 
-### Continuation
+## Continuation
 The human eye follows the paths, lines, and curves of a design, and prefers to see a continuous flow of visual elements rather than separated objects.
 
-### Closure (also known as Reification)
+## Closure (also known as Reification)
 The human eye prefers to see complete shapes. If the visual elements are not complete, the user can perceive a complete shape by filling in missing visual information.
 
-### Proximity (also known as Emergence)
+## Proximity (also known as Emergence)
 Simple shapes arranged together can create a more complex image.
 
-### Figure/Ground (also known as Multi-stability)
+## Figure/Ground (also known as Multi-stability)
 The human eye isolates shapes from backgrounds.
 
-### Symmetry and order
+## Symmetry and order
 The design should be balanced and complete; otherwise, the user will spend time and effort trying to perceive an overall picture.
 
 
