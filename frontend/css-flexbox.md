@@ -124,7 +124,7 @@ The first flex item in the code does not have to appear as the first item in the
 
 The order value must be a number, default value is 0.
 
-```
+```html
 <!DOCTYPE html>
 <head>  
 </head>
@@ -160,18 +160,14 @@ The order value must be a number, default value is 0.
 </style>
 </head>
 <body>
-
 <h1>The order Property</h1>
-
 <p>Use the order property to sort the flex items as you like:</p>
-
 <div class="flex-container">
   <div style="order: 3">1</div>
   <div style="order: 2">2</div>
   <div style="order: 4">3</div> 
   <div style="order: 1">4</div>
 </div>
-
 </body>
 </html>
 
@@ -185,7 +181,7 @@ Example
 Make the third flex item grow eight times faster than the other flex items:
 
 
-```
+```html
 <!DOCTYPE html>
 <head>  
 </head>
@@ -215,7 +211,7 @@ Example
 Do not let the third flex item shrink as much as the other flex items:
 
 
-```
+```html
 <!DOCTYPE html>
 <head>  
 </head>
@@ -256,7 +252,7 @@ The flex-basis property specifies the initial length of a flex item.
 Example
 Set the initial length of the third flex item to 200 pixels:
 
-```
+```html
 <!DOCTYPE html>
 <head>  
 </head>
@@ -285,7 +281,7 @@ The flex property is a shorthand property for the flex-grow, flex-shrink, and fl
 Example
 Make the third flex item not growable (0), not shrinkable (0), and with an initial length of 200 pixels:
 
-```
+```html
 <div class="flex-container">
   <div>1</div>
   <div>2</div>
@@ -315,7 +311,11 @@ In these examples we use a 200 pixels high container, to better demonstrate the 
 Example
 Align the third flex item in the middle of the container:
 
-```
+```html
+<!DOCTYPE html>
+<head>  
+</head>
+<body>
 <div class="flex-container">
   <div>1</div>
   <div>2</div>
@@ -334,5 +334,7 @@ Align the third flex item in the middle of the container:
   <div style="align-self: center">3</div>
   <div>4</div>
 </div>
+</body>
+</html>
 
 
