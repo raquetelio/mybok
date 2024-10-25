@@ -125,14 +125,19 @@ The first flex item in the code does not have to appear as the first item in the
 The order value must be a number, default value is 0.
 
 ```
-<div class="flex-container">
-  <div style="order: 3">1</div>
-  <div style="order: 2">2</div>
-  <div style="order: 4">3</div> 
-  <div style="order: 1">4</div>
-</div>
+<!DOCTYPE html>
+<head>  
+</head>
+<body>
+   <div class="flex-container">
+    <div style="order: 3">1</div>
+    <div style="order: 2">2</div>
+    <div style="order: 4">3</div> 
+    <div style="order: 1">4</div>
+  </div>
+</body>
+</html>
 ```
-
 
 <!DOCTYPE html>
 <html>
@@ -179,13 +184,22 @@ The value must be a number, default value is 0.
 Example
 Make the third flex item grow eight times faster than the other flex items:
 
-``` 
-<div class="flex-container">
+
+```
+<!DOCTYPE html>
+<head>  
+</head>
+<body>
+  <div class="flex-container">
   <div style="flex-grow: 1">1</div>
   <div style="flex-grow: 1">2</div>
   <div style="flex-grow: 8">3</div>
 </div>
+</body>
+</html>
 ```
+
+
 <div class="flex-container">
   <div style="flex-grow: 1">1</div>
   <div style="flex-grow: 1">2</div>
@@ -200,8 +214,13 @@ The value must be a number, default value is 1.
 Example
 Do not let the third flex item shrink as much as the other flex items:
 
+
 ```
-<div class="flex-container">
+<!DOCTYPE html>
+<head>  
+</head>
+<body>
+  <div class="flex-container">
   <div>1</div>
   <div>2</div>
   <div style="flex-shrink: 0">3</div>
@@ -213,7 +232,10 @@ Do not let the third flex item shrink as much as the other flex items:
   <div>9</div>
   <div>10</div>
 </div>
+</body>
+</html>
 ```
+
 <div class="flex-container">
   <div>1</div>
   <div>2</div>
@@ -235,12 +257,18 @@ Example
 Set the initial length of the third flex item to 200 pixels:
 
 ```
+<!DOCTYPE html>
+<head>  
+</head>
+<body>
 <div class="flex-container">
   <div>1</div>
   <div>2</div>
   <div style="flex-basis: 200px">3</div>
   <div>4</div>
 </div>
+</body>
+</html>
 ```
 
 <div class="flex-container">
@@ -264,6 +292,8 @@ Make the third flex item not growable (0), not shrinkable (0), and with an initi
   <div style="flex: 0 0 200px">3</div>
   <div>4</div>
 </div>
+</body>
+</html>
 ```
 
 <div class="flex-container">
@@ -294,7 +324,10 @@ Align the third flex item in the middle of the container:
 </div>
 
 ```
-
+<!DOCTYPE html>
+<head>  
+</head>
+<body>
 <div class="flex-container">
   <div>1</div>
   <div>2</div>
