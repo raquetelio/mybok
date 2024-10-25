@@ -1,6 +1,7 @@
 # Markdown format
 
-https://markdownlivepreview.com/ 
+- https://www.markdownguide.org/extended-syntax/ 
+- https://markdownlivepreview.com/ 
 
 
 
@@ -26,3 +27,22 @@ For tables use backward slash: (\):
 
 
 
+## Syntax Highlighting
+Many Markdown processors support syntax highlighting for fenced code blocks. This feature allows you to add color highlighting for whatever language your code was written in. To add syntax highlighting, specify a language next to the backticks before the fenced code block.
+
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+The rendered output looks like this:
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+
+}
+```
