@@ -15,7 +15,6 @@ Raquel.
 
 ## Table of Content
 
-				- [/home/rtoscano/projects/mybok](/home/rtoscano/projects/mybok)
 - [cloud](cloud)
 	- [AWS Certifications](cloud/aws-certifications.md)
 - [container](container)
@@ -76,7 +75,7 @@ Raquel.
 	- [management/strategy](management/strategy)
 		- [Wardley-mapping](management/strategy/wardley-mapping.md)
 - [markdown](markdown)
-	- [](markdown/github-markdown-emoji-markup.md)
+	- [Complete list of github markdown emoji markup](markdown/github-markdown-emoji-markup.md)
 	- [Markdown format](markdown/markdown-format.md)
 - [node](node)
 	- [Node basics](node/node-basics.md)
