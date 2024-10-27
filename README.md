@@ -107,7 +107,7 @@ Raquel.
 		- [Interface design patterns](ux-and-design/design/interface-design-patterns.md)
 		- [Progressive Disclosure](ux-and-design/design/progressive-disclosure-technique.md)
 		- [Tesler’s law ](ux-and-design/design/teslers-law.md)
-	- [Checkout:](ux-and-design/README.md)
+	- [UX and design](ux-and-design/README.md)
 	- [ux-and-design/ux](ux-and-design/ux)
 	- [UX and design inspiration](ux-and-design/ux-design-inspiration.md)
 		- [ux-and-design/ux/docs](ux-and-design/ux/docs)
@@ -118,4 +118,5 @@ Raquel.
 		- [API Design references](web/api/api-design.md)
 	- [Cross-Origin Resource Sharing (CORS)](web/cors.md)
 - [you-should-follow.md](you-should-follow.md)
+
 

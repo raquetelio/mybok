@@ -1,4 +1,4 @@
-Checkout:
+# UX and design
 
 # UX
 [UX](ux-general.md)
