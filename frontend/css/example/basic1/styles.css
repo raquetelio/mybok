@@ -1,0 +1,22 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.my-flex-container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: row;
+}
+.menu {
+  width: 150px;
+  background-color: cadetblue;
+  overflow: auto;
+  border: 5px solid red;
+}
+
+.main {
+  background-color: bisque;
+  flex-grow: 1;
+}

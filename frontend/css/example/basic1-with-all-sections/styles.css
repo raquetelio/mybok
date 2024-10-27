@@ -1,0 +1,46 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  background-color: aqua;  
+  height: 75px;
+}
+
+main {
+  background-color:bisque;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+  place-content: center;
+}
+
+footer{
+  background-color:darkcyan;
+  height: 150px;
+}
+
+#root {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+}
+
+nav {
+  width: 150px;
+  background-color: cadetblue;  
+  border: 1px solid darkslategrey;
+}
+
+img {
+  width: 250px;
+}
+
+
+

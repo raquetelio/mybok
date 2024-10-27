@@ -120,7 +120,23 @@ border-color: black;
 ## CSS Overflow 
 [CSS Overflow](css-overflow.md)
 
+## CSS media queries
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries 
+
+## CSS imports
+[CSS imports](css-imports.md)
+
+## CSS Custom properties
+[CSS Custom properties (Variables)](css-custom-properties.md)
+
 ## References
 
 Browser support tables for modern web technologies: 
 https://caniuse.com/ 
+
+
+Responsively: https://responsively.app/
+
+Responsive Web Design Patterns: https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns
+
+Responsive patterns: https://bradfrost.github.io/this-is-responsive/patterns.html
