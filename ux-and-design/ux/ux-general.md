@@ -1,4 +1,3 @@
-
 # UX
 Usability depends on people and context.
 

@@ -1,4 +1,4 @@
- # Progressive Disclosure
+# Progressive Disclosure
 
 _Source: https://lawsofux.com/articles/2024/teslers-law/#:~:text=Progressive%20disclosure%20is%20an%20interaction,features%20or%20content%20easily%20accessible._
 

@@ -1,4 +1,3 @@
-
 # Design Principles and laws
 
 - [Design Principles](design-principles.md)

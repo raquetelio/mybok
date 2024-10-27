@@ -1,4 +1,3 @@
-
 _This Twitter thread is awesome!_
 
 # How I manage "underperformers" 

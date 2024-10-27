@@ -1,4 +1,4 @@
-## CSS stack level: z-index
+# CSS stack level: z-index
 
 The z-index CSS property sets the z-order of a positioned element and its descendants or flex and grid items. Overlapping elements with a larger z-index cover those with a smaller one.
 

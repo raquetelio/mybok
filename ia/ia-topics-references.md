@@ -1,4 +1,3 @@
-
 # Generative IA - topics and references
 
 ## Técnicas de prompting

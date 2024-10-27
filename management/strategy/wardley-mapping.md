@@ -1,4 +1,3 @@
-
 # Wardley-mapping
 
 ## Introduction
