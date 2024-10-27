@@ -1,4 +1,3 @@
-
 # Complete list of github markdown emoji markup
 _Source: https://gist.github.com/rxaviers/7360908#file-gistfile1-md_
 
