@@ -1,11 +1,11 @@
 # UX and design
 
 # UX
-[UX](ux-general.md)
+[UX](./ux/ux-general.md)
 
 
 # Design
-[Design](design-general.md)
+[Design](./design/design-general.md)
 
 
 # UX and Design Inspiration
